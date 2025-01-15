@@ -7,7 +7,7 @@ I am a JavaScript developer passionate about creating high-quality and efficient
 ## My Skills
 
 - **Programming Languages**: JavaScript, Python, PHP
-- **Frameworks and Libraries**: Node.js, Nest.js, React
+- **Frameworks and Libraries**: Node.js, Nest.js, React, FastApi
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Git, Docker, CI/CD
 - **Other**: REST API, Agile, Scrum
