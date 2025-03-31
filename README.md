@@ -16,8 +16,7 @@ I am a JavaScript developer passionate about creating high-quality and efficient
 
 Here are a few of my projects that might interest you:
 
-1. **[3DStoreBot](https://github.com/RuslanSalianko/3DStoreBot)** — a solution for managing and storing files for 3D printing, which can be saved using a Telegram bot.
-2. **[Garmin Live Track Bot](https://github.com/RuslanSalianko/garmin-live-track-bot)** — a bot for notifying family or friends about your location during workouts using Garmin. It also allows sending messages to all users of the bot.
+1. **[Garmin Live Track Bot](https://github.com/RuslanSalianko/garmin-live-track-bot)** — a bot for notifying family or friends about your location during workouts using Garmin. It also allows sending messages to all users of the bot.
 
 ## Contact Me
 
